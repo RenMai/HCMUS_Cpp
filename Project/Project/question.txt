@@ -1,0 +1,81 @@
+8
+red trong tieng Viet la mau gi j
+technology
+nhan
+0
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Viet la mau gi h
+geography
+tien
+1
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Viet la mau gi f
+history
+kha
+1
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Viet la mau gi e
+chemistry
+quang
+1
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Anh la mau gi d
+physic
+thanh
+0
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Viet la mau gi c
+literature
+quan
+1
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Viet la mau gi b
+biology
+hoang
+1
+4
+do
+xanh
+do
+tim
+vang
+red trong tieng Anh la mau gi a 
+english
+long
+1
+4
+do
+xanh
+do
+tim
+vang

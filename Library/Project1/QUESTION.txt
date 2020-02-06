@@ -1,0 +1,43 @@
+7
+1 1 4 1 5
+Duong Hoang Kha
+7+3=?
+2
+math
+9
+10
+11
+12
+1 1 3 1 4
+Duong Hoang Kha
+Who is the admin?
+2
+noname
+Duong Hoang Kha
+Mai Thieu Nhan
+Nguyen Minh Tien
+1 1 4 1 1
+Duong Hoang Kha
+1+1=
+2
+math
+1
+2
+3
+4
+1 1 3 1 6
+Teacher 1
+5+5
+3
+math
+9
+1
+10
+1 1 3 1 7
+Teacher 1
+Who's English teacher?
+2
+English
+Nguyen Van A
+Nguyen Van B
+Le Van C

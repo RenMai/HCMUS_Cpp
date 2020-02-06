@@ -1,0 +1,5 @@
+Student ID: 1551024
+Student full name: Mai Thieu Nhan
+Stundent address: 246a Lac Long Quan P10 Q11 HCM
+Student date of birth: 3/1/1997
+Student grade: 1

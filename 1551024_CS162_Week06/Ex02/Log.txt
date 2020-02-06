@@ -1,0 +1,20 @@
+Dice value of #1 toss: 1
+Leaving student:
+ID: 234
+Name: Vu
+
+Dice value of #2 toss: 3
+Leaving student:
+ID: 123
+Name: Vy 
+
+Dice value of #3 toss: 5
+Leaving student:
+ID: 567
+Name: Thi
+
+Dice value of #4 toss: 4
+Leaving student:
+ID: 345
+Name: Nhan
+

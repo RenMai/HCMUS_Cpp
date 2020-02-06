@@ -1,0 +1,1 @@
+Two linked list dont have any common nodes

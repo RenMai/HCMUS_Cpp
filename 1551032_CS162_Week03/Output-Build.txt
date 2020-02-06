@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: 1551032_CS162_Week03, Configuration: Debug Win32 ------
+1>  linkedList.cpp
+1>  1551032_CS162_Week03.vcxproj -> C:\Users\MT\Desktop\C++\1551032_CS162_Week03\Debug\1551032_CS162_Week03.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
